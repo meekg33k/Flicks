@@ -1,6 +1,6 @@
 # Project 1 - Flicks
 
-Flicks shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
+**Flicks** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
 Time spent: 11 hours spent in total
 
@@ -35,7 +35,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/nZxtgWw.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/nZxtgWw.gifv' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
